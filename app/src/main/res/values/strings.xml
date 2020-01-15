@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Spinner</string>
+    <string name="namabuah">Nama Buah</string>
+    <string name="deskripsi">deskripsi anda</string>
+</resources>
